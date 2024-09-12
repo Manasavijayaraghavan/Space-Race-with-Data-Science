@@ -1,5 +1,5 @@
 **<h1>Winning Space Race with Data Science</h1>**
-**<h2>IBM-Applied-Data-Science-Capstone-Project</h2>**
+**<h2>IBM Applied Data Science Capstone Project</h2>**
 
 **<h3>Problem Statement:</h3>**
 
